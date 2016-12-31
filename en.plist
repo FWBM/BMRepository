@@ -104,11 +104,6 @@
 			<key>透明迷彩:transparent</key>
 			<string>3.4.2:iawm</string>
 		</dict>
-		<key>hangar:hangar</key>
-		<dict>
-			<key>Gfx Mod Pack ハンガースキン:modpack</key>
-			<string></string>
-		</dict>
 		<key>Exhaust Smoke:exhaust_smoke</key>
 		<dict>
 			<key>花(エイプリルフールネタ):april_flower</key>
@@ -117,6 +112,11 @@
 			<string>3.4.2:iawm</string>
 			<key>Tankensteinの炎:tanken_fire</key>
 			<string>3.4.2:iawm</string>
+		</dict>
+		<key>hangar:hangar</key>
+		<dict>
+			<key>Gfx Mod Pack ハンガースキン:modpack</key>
+			<string></string>
 		</dict>
 	</dict>
 	<key>Sys Mod:Sys</key>

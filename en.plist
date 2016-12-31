@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Gfx Mod:BattleScreenHUD</key>
+	<dict>
+		<key>GunSpread:GunSpread</key>
+		<dict>
+			<key>WoTB White Custom:wotb_wc</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>GunAim:GunAim</key>
+		<dict>
+			<key>WoTB White Custom:wotb_wc</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>SightCursor:SightCursor</key>
+		<dict>
+			<key>WoTB White Custom:wotb_wc</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>SightCursorSniper:SightCursorSniper</key>
+		<dict>
+			<key>AuC GunSight:auc_gunsight</key>
+			<string>3.4.2:iawm</string>
+			<key>WoTB White Custom:wotb_wc</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>AutoAim:AutoAim</key>
+		<dict>
+			<key>WoTB White Custom:wotb_wc</key>
+			<string>3.4.2:wm</string>
+		</dict>
+		<key>HUD:HUD</key>
+		<dict>
+			<key>フラットUIボタン:flat_button</key>
+			<string>3.4.2:iawm</string>
+			<key>カラー弾種変更:color_ammo</key>
+			<string>3.4.2:iawm</string>
+			<key>旧タイプジョイスティック:old_joystick</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>Sixth Sense:sixth_sense</key>
+		<dict>
+			<key>BlueEye:blueeye</key>
+			<string>3.4.2:iawm</string>
+			<key>AN6S:an6s</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>Marker:Marker</key>
+		<dict>
+			<key>敵方向マーカー:enemy_direction</key>
+			<string>3.4.2:iawm</string>
+			<key>敵攻撃方向マーカー:damage_direction</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>Minimap:minimap</key>
+		<dict>
+			<key>NeXT VisibleRange (中Tier):next_visiblerange_middle</key>
+			<string>3.4.2:iawm</string>
+			<key>NeXT VisibleRange (高Tier):next_visiblerange_high</key>
+			<string>3.4.2:iawm</string>
+			<key>カラーミニマップ:color_minimap</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>Tier Icon / Tank Icon:icon</key>
+		<dict>
+			<key>カラーTierアイコン:color_tier</key>
+			<string>3.4.2:iawm</string>
+			<key>Ikon ver1:ikon1</key>
+			<string>3.4.2:iawm</string>
+			<key>Ikon ver2:ikon2</key>
+			<string>3.4.2:iawm</string>
+			<key>Ikon ver3:ikon3</key>
+			<string>3.4.2:iawm</string>
+			<key>Ikon ver4:ikon4</key>
+			<string>3.4.2:iawm</string>
+			<key>Mini3D:mini3d</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>Drive Arrow:drive_arrow</key>
+		<dict>
+			<key>透過度50%:transparent50</key>
+			<string></string>
+			<key>透過度75%:transparent75</key>
+			<string></string>
+			<key>透過度100%:transparent100</key>
+			<string></string>
+		</dict>
+		<key>Login Keyart:login_keyart</key>
+		<dict/>
+		<key>Others:others</key>
+		<dict/>
+	</dict>
+	<key>3d Mod:3d</key>
+	<dict>
+		<key>Tank Skin:tank_skin</key>
+		<dict>
+			<key>白骨化スキン:beltrup</key>
+			<string></string>
+		</dict>
+		<key>Tank Camouflage:tank_camouflage</key>
+		<dict>
+			<key>透明迷彩:transparent</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>hangar:hangar</key>
+		<dict>
+			<key>Gfx Mod Pack ハンガースキン:modpack</key>
+			<string></string>
+		</dict>
+		<key>Exhaust Smoke:exhaust_smoke</key>
+		<dict>
+			<key>花(エイプリルフールネタ):april_flower</key>
+			<string>3.4.2:iawm</string>
+			<key>IS-3Dの電気:defender_electricity</key>
+			<string>3.4.2:iawm</string>
+			<key>Tankensteinの炎:tanken_fire</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+	</dict>
+	<key>Sys Mod:Sys</key>
+	<dict>
+		<key>Tracer:tracer</key>
+		<dict>
+			<key>弾道表示:tracer</key>
+			<string></string>
+		</dict>
+		<key>Font:font</key>
+		<dict>
+			<key>日本語＆英語Mix:ja_en_mix</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Sfx Mod:sfx</key>
+	<dict>
+		<key>Gun Sound:gun</key>
+		<dict>
+			<key>リアル砲撃音 (HQ):realcannons_hq</key>
+			<string></string>
+			<key>リアル砲撃音 (LQ):realcannons_lq</key>
+			<string></string>
+			<key>Armored Warfare:armored_warfare</key>
+			<string></string>
+		</dict>
+		<key>Hit Sound:hit</key>
+		<dict>
+			<key>Sfx Mod Pack 被弾音:modpack</key>
+			<string></string>
+			<key>PC版 旧被弾音:pc_old</key>
+			<string></string>
+		</dict>
+		<key>Engine Sound:engine</key>
+		<dict>
+			<key>Sfx Mod Pack エンジン音:modpack</key>
+			<string></string>
+		</dict>
+		<key>Effect Sound:effect</key>
+		<dict>
+			<key>GUI無線ボイス:realgui</key>
+			<string></string>
+		</dict>
+		<key>Crew Voice (Japanese):voice_ja</key>
+		<dict>
+			<key>ADA ボイス:ada</key>
+			<string></string>
+			<key>Armored Warfare ボイス:armored_warfare</key>
+			<string></string>
+		</dict>
+		<key>Sixth Sense:sixth_sense</key>
+		<dict>
+			<key>ADA スポットタイマー:ada</key>
+			<string></string>
+		</dict>
+		<key>BGM:bgm</key>
+		<dict>
+			<key>WoT PC BGM:pc_music</key>
+			<string></string>
+			<key>Armored Warfare BGM:armored_warfare_music</key>
+			<string></string>
+		</dict>
+		<key>Loaded:loaded</key>
+		<dict>
+			<key>ADA:ada</key>
+			<string></string>
+			<key>Armored Warfare:armored_warfare</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>

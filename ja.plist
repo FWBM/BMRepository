@@ -79,14 +79,7 @@
 			<string>3.4.2:iawm</string>
 		</dict>
 		<key>進行方向矢印:drive_arrow</key>
-		<dict>
-			<key>透過度50%:transparent50</key>
-			<string>3.4.2:</string>
-			<key>透過度75%:transparent75</key>
-			<string>3.4.2:</string>
-			<key>透過度100%:transparent100</key>
-			<string>3.4.2:</string>
-		</dict>
+		<string>3.4.2:</string>
 		<key>ログイン画面キーアート:login_keyart</key>
 		<dict/>
 		<key>その他:others</key>

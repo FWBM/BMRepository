@@ -2,6 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>3d Mod:3d</key>
+	<dict>
+		<key>Drive Arrow:drive_arrow</key>
+		<dict>
+			<key>透過度50%:transparent50</key>
+			<string></string>
+			<key>透過度75%:transparent75</key>
+			<string></string>
+			<key>透過度100%:transparent100</key>
+			<string></string>
+		</dict>
+		<key>Tank Skin:tank_skin</key>
+		<dict>
+			<key>白骨化スキン:beltrup</key>
+			<string></string>
+		</dict>
+		<key>Tank Camouflage:tank_camouflage</key>
+		<dict>
+			<key>透明迷彩:transparent</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>Exhaust Smoke:exhaust_smoke</key>
+		<dict>
+			<key>花(エイプリルフールネタ):april_flower</key>
+			<string>3.4.2:iawm</string>
+			<key>IS-3Dの電気:defender_electricity</key>
+			<string>3.4.2:iawm</string>
+			<key>Tankensteinの炎:tanken_fire</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>hangar:hangar</key>
+		<dict>
+			<key>2015 NewYears Hangar:2015_newyears_hanger</key>
+			<string></string>
+		</dict>
+	</dict>
 	<key>Gfx Mod:BattleScreenHUD</key>
 	<dict>
 		<key>GunSpread:GunSpread</key>
@@ -78,46 +114,10 @@
 			<key>Mini3D:mini3d</key>
 			<string>3.4.2:iawm</string>
 		</dict>
-		<key>Drive Arrow:drive_arrow</key>
-		<dict>
-			<key>透過度50%:transparent50</key>
-			<string></string>
-			<key>透過度75%:transparent75</key>
-			<string></string>
-			<key>透過度100%:transparent100</key>
-			<string></string>
-		</dict>
 		<key>Login Keyart:login_keyart</key>
 		<dict/>
 		<key>Others:others</key>
 		<dict/>
-	</dict>
-	<key>3d Mod:3d</key>
-	<dict>
-		<key>Tank Skin:tank_skin</key>
-		<dict>
-			<key>白骨化スキン:beltrup</key>
-			<string></string>
-		</dict>
-		<key>Tank Camouflage:tank_camouflage</key>
-		<dict>
-			<key>透明迷彩:transparent</key>
-			<string>3.4.2:iawm</string>
-		</dict>
-		<key>Exhaust Smoke:exhaust_smoke</key>
-		<dict>
-			<key>花(エイプリルフールネタ):april_flower</key>
-			<string>3.4.2:iawm</string>
-			<key>IS-3Dの電気:defender_electricity</key>
-			<string>3.4.2:iawm</string>
-			<key>Tankensteinの炎:tanken_fire</key>
-			<string>3.4.2:iawm</string>
-		</dict>
-		<key>hangar:hangar</key>
-		<dict>
-			<key>Gfx Mod Pack ハンガースキン:modpack</key>
-			<string></string>
-		</dict>
 	</dict>
 	<key>Sys Mod:Sys</key>
 	<dict>
@@ -128,8 +128,13 @@
 		</dict>
 		<key>Font:font</key>
 		<dict>
-			<key>日本語＆英語Mix:ja_en_mix</key>
+			<key>Japanese ＆ English Mix:ja_en_mix</key>
 			<string></string>
+		</dict>
+		<key>Grage Filter:Grage Filter</key>
+		<dict>
+			<key>日本語＆英語Mix:ja_en_mix</key>
+			<string>3.4.2:</string>
 		</dict>
 	</dict>
 	<key>Sfx Mod:sfx</key>

@@ -2,6 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>3d Mod:3d</key>
+	<dict>
+		<key>進行方向矢印:drive_arrow</key>
+		<dict/>
+		<key>戦車スキン:tank_skin</key>
+		<dict>
+			<key>白骨化スキン:beltrup</key>
+			<string>3.4.2:</string>
+		</dict>
+		<key>戦車迷彩:tank_camouflage</key>
+		<dict>
+			<key>透明迷彩:transparent</key>
+			<string>3.4.2:</string>
+		</dict>
+		<key>排気煙:exhaust_smoke</key>
+		<dict>
+			<key>花(エイプリルフールネタ):april_flower</key>
+			<string>3.4.2:iawm</string>
+			<key>IS-3Dの電気:defender_electricity</key>
+			<string>3.4.2:iawm</string>
+			<key>Tankensteinの炎:tanken_fire</key>
+			<string>3.4.2:iawm</string>
+		</dict>
+		<key>ハンガースキン:hangar</key>
+		<dict>
+			<key>2015 ニューイヤーハンガー:2015_newyears_hanger</key>
+			<string>3.4.2:</string>
+		</dict>
+	</dict>
 	<key>Gfx Mod:BattleScreenHUD</key>
 	<dict>
 		<key>主砲装填着弾範囲:GunSpread</key>
@@ -40,7 +69,7 @@
 			<key>旧タイプジョイスティック:old_joystick</key>
 			<string>3.4.2:</string>
 		</dict>
-		<key>第六感:sixth_sense</key>
+		<key>第六感: SixthSense</key>
 		<dict>
 			<key>BlueEye:blueeye</key>
 			<string>3.4.2:iawm</string>
@@ -54,7 +83,7 @@
 			<key>敵攻撃方向マーカー:damage_direction</key>
 			<string>3.4.2:iawm</string>
 		</dict>
-		<key>ミニマップ:minimap</key>
+		<key>ミニマップ:Minimap</key>
 		<dict>
 			<key>NeXT VisibleRange (中Tier):next_visiblerange_middle</key>
 			<string>3.4.2:iawm</string>
@@ -63,7 +92,7 @@
 			<key>カラーミニマップ:color_minimap</key>
 			<string>3.4.2:iawm</string>
 		</dict>
-		<key>Tierアイコン / 戦車アイコン:icon</key>
+		<key>Tierアイコン 戦車アイコン:icon</key>
 		<dict>
 			<key>カラーTierアイコン:color_tier</key>
 			<string>3.4.2:iawm</string>
@@ -78,48 +107,24 @@
 			<key>Mini3D:mini3d</key>
 			<string>3.4.2:iawm</string>
 		</dict>
-		<key>進行方向矢印:drive_arrow</key>
-		<dict/>
 		<key>ログイン画面キーアート:login_keyart</key>
 		<dict/>
 		<key>その他:others</key>
 		<dict/>
 	</dict>
-	<key>3d Mod:3d</key>
-	<dict>
-		<key>戦車スキン:tank_skin</key>
-		<dict>
-			<key>白骨化スキン:beltrup</key>
-			<string>3.4.2:</string>
-		</dict>
-		<key>戦車迷彩:tank_camouflage</key>
-		<dict>
-			<key>透明迷彩:transparent</key>
-			<string>3.4.2:</string>
-		</dict>
-		<key>排気煙:exhaust_smoke</key>
-		<dict>
-			<key>花(エイプリルフールネタ):april_flower</key>
-			<string>3.4.2:iawm</string>
-			<key>IS-3Dの電気:defender_electricity</key>
-			<string>3.4.2:iawm</string>
-			<key>Tankensteinの炎:tanken_fire</key>
-			<string>3.4.2:iawm</string>
-		</dict>
-		<key>ハンガースキン:hangar</key>
-		<dict>
-			<key>Gfx Mod Pack ハンガースキン:modpack</key>
-			<string>3.4.2:</string>
-		</dict>
-	</dict>
 	<key>Sys Mod:Sys</key>
 	<dict>
 		<key>トレーサー:tracer</key>
 		<dict>
-			<key>弾道表示:tracer</key>
+			<key>弾道表示:colored_tracer</key>
 			<string>3.4.2:</string>
 		</dict>
 		<key>フォント:font</key>
+		<dict>
+			<key>日本語＆英語Mix:ja_en_mix</key>
+			<string>3.4.2:</string>
+		</dict>
+		<key>ガレージフィルター:Grage Filter</key>
 		<dict>
 			<key>日本語＆英語Mix:ja_en_mix</key>
 			<string>3.4.2:</string>

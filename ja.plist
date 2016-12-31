@@ -81,11 +81,11 @@
 		<key>進行方向矢印:drive_arrow</key>
 		<dict>
 			<key>透過度50%:transparent50</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>透過度75%:transparent75</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>透過度100%:transparent100</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>ログイン画面キーアート:login_keyart</key>
 		<dict/>

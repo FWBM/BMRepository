@@ -79,7 +79,7 @@
 			<string>3.4.2:iawm</string>
 		</dict>
 		<key>進行方向矢印:drive_arrow</key>
-		<string>3.4.2:</string>
+		<dict/>
 		<key>ログイン画面キーアート:login_keyart</key>
 		<dict/>
 		<key>その他:others</key>

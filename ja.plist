@@ -34,11 +34,11 @@
 		<key>HUD:HUD</key>
 		<dict>
 			<key>フラットUIボタン:flat_button</key>
-			<string>3.4.2:iawm</string>
+			<string>3.4.2:</string>
 			<key>カラー弾種変更:color_ammo</key>
-			<string>3.4.2:iawm</string>
+			<string>3.4.2:</string>
 			<key>旧タイプジョイスティック:old_joystick</key>
-			<string>3.4.2:iawm</string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>第六感:sixth_sense</key>
 		<dict>
@@ -97,12 +97,12 @@
 		<key>戦車スキン:tank_skin</key>
 		<dict>
 			<key>白骨化スキン:beltrup</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>戦車迷彩:tank_camouflage</key>
 		<dict>
 			<key>透明迷彩:transparent</key>
-			<string>3.4.2:iawm</string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>排気煙:exhaust_smoke</key>
 		<dict>
@@ -116,7 +116,7 @@
 		<key>ハンガースキン:hangar</key>
 		<dict>
 			<key>Gfx Mod Pack ハンガースキン:modpack</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 	</dict>
 	<key>Sys Mod:Sys</key>
@@ -124,12 +124,12 @@
 		<key>トレーサー:tracer</key>
 		<dict>
 			<key>弾道表示:tracer</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>フォント:font</key>
 		<dict>
 			<key>日本語＆英語Mix:ja_en_mix</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 	</dict>
 	<key>Sfx Mod:sfx</key>
@@ -137,54 +137,54 @@
 		<key>砲撃音:gun</key>
 		<dict>
 			<key>リアル砲撃音 (HQ):realcannons_hq</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>リアル砲撃音 (LQ):realcannons_lq</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>Armored Warfare:armored_warfare</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>被弾音:hit</key>
 		<dict>
 			<key>Sfx Mod Pack 被弾音:modpack</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>PC版 旧被弾音:pc_old</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>エンジン音:engine</key>
 		<dict>
 			<key>Sfx Mod Pack エンジン音:modpack</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>効果音:effect</key>
 		<dict>
 			<key>GUI無線ボイス:realgui</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>ボイス (日本語設定用):voice_ja</key>
 		<dict>
 			<key>ADA ボイス:ada</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>Armored Warfare ボイス:armored_warfare</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>第六感:sixth_sense</key>
 		<dict>
 			<key>ADA スポットタイマー:ada</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>BGM:bgm</key>
 		<dict>
 			<key>WoT PC BGM:pc_music</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>Armored Warfare BGM:armored_warfare_music</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 		<key>装填完了音:loaded</key>
 		<dict>
 			<key>ADA:ada</key>
-			<string></string>
+			<string>3.4.2:</string>
 			<key>Armored Warfare:armored_warfare</key>
-			<string></string>
+			<string>3.4.2:</string>
 		</dict>
 	</dict>
 </dict>
